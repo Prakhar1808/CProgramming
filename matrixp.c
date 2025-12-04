@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(){
-    int row,col;
+    int row,col; //will take garbage values
     printf("Enter no. of rows: \n");
     scanf("%d",&row);
     printf("Enter no. of columns: \n");
