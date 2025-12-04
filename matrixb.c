@@ -44,6 +44,17 @@ for(int i = 0; i < row; i++){
     }
     printf("\n");
 }
+printf("The subtraction of two matrices is:\n");
+for(int i = 0; i < row; i++){
+    for(int j = 0; j < col; j++){
+        sum[i][j] = matrix1[i][j] - matrix2[i][j];
+        printf("%d ", sum[i][j]);
+    }   
+    printf("\n");
+}
+
+
+
 
 
        return 0;
