@@ -9,7 +9,8 @@ int add(int a, int b) {
 int multiply(int a, int b) {
     return a * b;
 }
-
+// iusearchbtw
+// iuseneovimbtw
 int main() {
     // Declare function pointer
     // Syntax: return_type (*pointer_name)(parameter_types)
