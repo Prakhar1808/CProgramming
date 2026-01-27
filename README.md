@@ -2,9 +2,8 @@ welcome to one of my first few repos, as you can see there's alot of improvement
 # C Programming
 > _This repository was made with the intention of consolidating all the programs required by us for our end-term exam, no serious work just tomfoolery._
 
-> _The folders are divided by the name of the contributors, some commmits might seem unnecessary but this was our learning experience. Thanks for checking this repo!_
+> _The folders are divided by the name of the topics, Thanks for checking this repo!_
 
-## Programs under the FOLDER: Prakhar
 ### the programs cover below mentioned topics:
 
 1. bubble sort
