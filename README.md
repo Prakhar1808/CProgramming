@@ -1,6 +1,7 @@
 welcome to one of my first few repos, as you can see there's alot of improvements that can be done, some day!
+
 # C Programming
-> _This repository was made with the intention of consolidating all the programs required by us for our end-term exam, no serious work just tomfoolery._
+> _This repository was made with the intention of consolidating all the programs required by us for our end-term exam, now this must serve as a guide to all those who are new to CProgramming or Programming in general_
 
 > _The folders are divided by the name of the topics, Thanks for checking this repo!_
 
